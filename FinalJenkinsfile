@@ -34,3 +34,5 @@ pipeline {
     }
 }
 ##### This is the demo for fetch #####
+Demo for git push
+This is the demo for git pull
